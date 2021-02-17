@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BCT.SwaggerAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BCT.SwaggerAPI.Model.DB.db_core_sp_callContext.GetProductByPriceGreaterThan1000Async">
+            <summary>  
+            Get products whose price is greater than equal to 1000 store procedure method.  
+            </summary>  
+            <returns>Returns - List of products whose price is greater than equal to 1000</returns>  
+        </member>
+        <member name="M:BCT.SwaggerAPI.Model.DB.db_core_sp_callContext.GetProductByIDAsync(System.Int32)">
+            <summary>  
+            Get product by ID store procedure method.  
+            </summary>  
+            <param name="productId">Product ID value parameter</param>  
+            <returns>Returns - List of product by ID</returns>  
+        </member>
+        <member name="P:BCT.SwaggerAPI.Model.DB.ProductViewModel.ProductID">
+            <summary>  
+            Gets or sets product ID property.  
+            </summary>  
+        </member>
+        <member name="P:BCT.SwaggerAPI.Model.DB.ProductViewModel.ProductsGreaterThan1000">
+            <summary>  
+            Gets or sets to products list whose price is greater than equal to 1000 property.  
+            </summary>  
+        </member>
+        <member name="P:BCT.SwaggerAPI.Model.DB.ProductViewModel.ProductDetail">
+            <summary>  
+            Gets or sets to product detail by product Id property.  
+            </summary>  
+        </member>
+    </members>
+</doc>

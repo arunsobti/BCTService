@@ -1,0 +1,2865 @@
+/* Employee search - Presearch */
+
+position: relative;
+width: 1200px;
+height: 1034px;
+
+/* Background color / Gray Background */
+background: #F4F4F4;
+
+
+/* Employee search */
+
+position: absolute;
+width: 732px;
+height: 26px;
+left: 230px;
+top: 90px;
+
+/* Title / Small title */
+font-family: BellSlim;
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 26px;
+/* identical to box height, or 108% */
+letter-spacing: -0.4px;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+
+/* Normal */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 130px;
+height: 16px;
+right: 30px;
+top: 95px;
+
+
+
+/* icn_add_someone */
+
+position: static;
+left: 0%;
+right: 87.69%;
+top: 0%;
+bottom: 0%;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: flex-start;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* ICONS / 16 / icn_add_someone */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+
+
+/* Stroke 3 */
+
+position: absolute;
+left: 0%;
+right: 39.96%;
+top: 0%;
+bottom: 31.25%;
+
+/* Secondary / Blue Medium */
+border: 1.5px solid #003778;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 6px;
+height: 6px;
+left: 10px;
+top: 10px;
+
+
+
+/* Line 13 */
+
+position: absolute;
+left: 75%;
+right: 12.5%;
+top: 62.5%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+border: 1.5px solid #003778;
+
+
+/* Line */
+
+position: absolute;
+left: 62.5%;
+right: 0%;
+top: 75%;
+bottom: 12.5%;
+
+/* Secondary / Blue Medium */
+border: 1.5px solid #003778;
+
+
+/* Label text */
+
+position: static;
+left: 16.15%;
+right: 0%;
+top: 6.25%;
+bottom: 6.25%;
+
+/* Button / Operational / Default */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+
+/* Secondary / Blue Medium */
+color: #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: center;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Navbar / Base / Admin Open */
+
+position: absolute;
+width: 200px;
+height: 974px;
+left: 0px;
+top: 60px;
+
+/* Primary / Blue Bell */
+background: #00549A;
+
+
+/* Frame 231 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 200px;
+height: 629px;
+left: 0px;
+top: 15px;
+
+
+
+/* Simple Nav / First Level */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 15px;
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+/* Primary / Blue Bell */
+background: #00549A;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Frame 35 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 0px;
+
+position: static;
+width: 156px;
+height: 48px;
+left: 22px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* icn_list_arrow_right */
+
+position: static;
+display: none;
+width: 9px;
+height: 9px;
+left: 0px;
+top: calc(50% - 9px/2);
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Search */
+
+position: static;
+height: 18px;
+left: 0px;
+right: 0px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Line 31 */
+
+position: static;
+height: 0px;
+left: 22.5px;
+right: 22.5px;
+bottom: 0px;
+
+/* Secondary / Blue Medium */
+border: 1px solid #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Simple Nav / First Level */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 15px;
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 48px;
+
+/* Primary / Blue Bell */
+background: #00549A;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Frame 35 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 0px;
+
+position: static;
+width: 156px;
+height: 48px;
+left: 22px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* icn_list_arrow_right */
+
+position: static;
+display: none;
+width: 9px;
+height: 9px;
+left: 0px;
+top: calc(50% - 9px/2);
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Work flow */
+
+position: static;
+height: 18px;
+left: 0px;
+right: 0px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Line 31 */
+
+position: static;
+height: 0px;
+left: 22.5px;
+right: 22.5px;
+bottom: 0px;
+
+/* Secondary / Blue Medium */
+border: 1px solid #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Simple Nav / First Level */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 15px;
+
+position: static;
+width: 200px;
+height: 66px;
+left: 0px;
+top: 96px;
+
+/* Primary / Blue Bell */
+background: #00549A;
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Frame 35 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 0px;
+
+position: static;
+width: 156px;
+height: 66px;
+left: 22px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* icn_list_arrow_right */
+
+position: static;
+display: none;
+width: 9px;
+height: 9px;
+left: 0px;
+top: calc(50% - 9px/2 - 9px);
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* MASTNAC creation and modification */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: calc(50% - 36px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Line 31 */
+
+position: static;
+height: 0px;
+left: 22.5px;
+right: 22.5px;
+bottom: 0px;
+
+/* Secondary / Blue Medium */
+border: 1px solid #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Simple Nav / First Level */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 15px;
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 162px;
+
+/* Primary / Blue Bell */
+background: #00549A;
+
+/* Inside Auto Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Frame 35 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 0px;
+
+position: static;
+width: 170px;
+height: 48px;
+left: 15px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* icn_list_arrow_down */
+
+position: static;
+width: 9px;
+height: 9px;
+left: 0px;
+top: calc(50% - 9px/2);
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Triangle */
+
+position: absolute;
+width: 9px;
+height: 5px;
+left: calc(50% - 9px/2);
+top: calc(50% - 5px/2);
+
+/* Secondary / White */
+background: #FFFFFF;
+
+
+/* Administrator */
+
+position: static;
+height: 18px;
+left: 14px;
+right: 0px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / White */
+color: #FFFFFF;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Line 31 */
+
+position: static;
+display: none;
+height: 0px;
+left: 22.5px;
+right: 22.5px;
+bottom: 0px;
+
+/* Secondary / Blue Medium */
+border: 1px solid #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Frame 200 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 10px 0px;
+
+position: static;
+width: 200px;
+height: 419px;
+left: 0px;
+top: 210px;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 0px;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 10px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Dark */
+background: #00215E;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Agent search */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / White */
+color: #FFFFFF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 45px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Agent portfolio */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 80px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Workflow criteria */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 115px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Follow up criteria */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 150px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Dialer distribution criteria */
+
+position: absolute;
+height: 36px;
+left: 44px;
+right: 39px;
+top: calc(50% - 36px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 203px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Collection path management */
+
+position: absolute;
+height: 36px;
+left: 44px;
+right: 39px;
+top: calc(50% - 36px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 256px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Strategy criteria */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 291px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Plan criteria */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 30px;
+left: 0px;
+top: 326px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Exemption */
+
+position: absolute;
+height: 18px;
+left: 44px;
+right: 39px;
+top: calc(50% - 18px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Simple Nav / Second Level */
+
+position: static;
+width: 200px;
+height: 48px;
+left: 0px;
+top: 361px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* icn_list_arrow_right */
+
+position: absolute;
+visibility: hidden;
+width: 9px;
+height: 9px;
+left: 30px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Agency distribution criteria */
+
+position: absolute;
+height: 36px;
+left: 44px;
+right: 39px;
+top: calc(50% - 36px/2);
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Light */
+color: #C2CEDF;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+/* Secondary / Blue Medium */
+background: #003778;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Button / link / back */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 38px;
+height: 14px;
+left: 230px;
+top: 121px;
+
+
+
+/* Frame 271 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 38px;
+height: 14px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* icn_arrow-left */
+
+position: static;
+left: 0%;
+right: 84.21%;
+top: 7.14%;
+bottom: 7.14%;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* ICONS / Arrow / icn_arrow-left */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Tint / Base / Blue Bell */
+
+position: absolute;
+width: 6px;
+height: 12px;
+left: 0px;
+top: 0px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* Mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #999999;
+
+
+/* Tint / Base / Blue Bell */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* tints/00549A */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* Back */
+
+position: static;
+left: 28.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Body / Small body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+
+/* Secondary / Blue Medium */
+color: #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 5px;
+
+
+/* Frame 42 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 30px;
+
+position: absolute;
+width: 1000px;
+height: 170px;
+left: 200px;
+top: 150px;
+
+/* Secondary / White */
+background: #FFFFFF;
+
+
+/* Frame 40 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 940px;
+height: 59px;
+left: 30px;
+top: 30px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 15px 0px;
+
+
+/* Frame 34 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 110px;
+height: 59px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* User ID */
+
+position: static;
+width: 110px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Normal */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: calc(50% - 36px/2 + 11.5px);
+
+border-radius: 4px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* bg */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+left: 10px;
+right: 10px;
+top: 0px;
+bottom: 0px;
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Light text */
+color: #999999;
+
+
+/* Frame 35 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 110px;
+height: 59px;
+left: 125px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* PEIN */
+
+position: static;
+width: 110px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Normal */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: calc(50% - 36px/2 + 11.5px);
+
+border-radius: 4px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* bg */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+left: 10px;
+right: 10px;
+top: 0px;
+bottom: 0px;
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Light text */
+color: #999999;
+
+
+/* Frame 36 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 160px;
+height: 59px;
+left: 250px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* First name */
+
+position: static;
+width: 160px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Filled */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: calc(50% - 36px/2 + 11.5px);
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Textfield / Basic / Filled */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border-radius: 4px;
+
+
+/* bg */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+left: 10px;
+right: 10px;
+top: 0px;
+bottom: 0px;
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Medium */
+color: #555555;
+
+
+/* Frame 37 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 160px;
+height: 59px;
+left: 425px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* Last name */
+
+position: static;
+width: 160px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Normal */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: calc(50% - 36px/2 + 11.5px);
+
+border-radius: 4px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* bg */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+left: 10px;
+right: 10px;
+top: 0px;
+bottom: 0px;
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Light text */
+color: #999999;
+
+
+/* Frame 38 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 180px;
+height: 59px;
+left: 600px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* Manager */
+
+position: static;
+width: 180px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Normal */
+
+position: static;
+height: 36px;
+left: 0px;
+right: 0px;
+top: 23px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Field/Base/Normal/Grey-Grey */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+height: 22px;
+left: 10px;
+right: 29px;
+top: calc(50% - 22px/2);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Light text */
+color: #999999;
+
+
+/* icn_list_arrow_down */
+
+position: absolute;
+width: 9px;
+height: 9px;
+right: 10px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Triangle */
+
+position: absolute;
+width: 9px;
+height: 5px;
+left: calc(50% - 9px/2);
+top: calc(50% - 5px/2);
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* Frame 39 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: static;
+width: 145px;
+height: 59px;
+left: 795px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* Role */
+
+position: static;
+width: 145px;
+left: 0px;
+top: 0%;
+bottom: 69.49%;
+
+/* Fields / Field Label */
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Dark */
+color: #111111;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Normal */
+
+position: static;
+width: 145px;
+height: 36px;
+left: 0px;
+top: 23px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 5px 0px;
+
+
+/* Field/Base/Normal/Grey-Grey */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Secondary / Gray Keyline */
+border: 1px solid #D4D4D4;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Label text */
+
+position: absolute;
+height: 22px;
+left: 10px;
+right: 29px;
+top: calc(50% - 22px/2);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Light text */
+color: #999999;
+
+
+/* icn_list_arrow_down */
+
+position: absolute;
+width: 9px;
+height: 9px;
+right: 10px;
+top: calc(50% - 9px/2 + 0.5px);
+
+
+
+/* Triangle */
+
+position: absolute;
+width: 9px;
+height: 5px;
+left: calc(50% - 9px/2);
+top: calc(50% - 5px/2);
+
+/* Secondary / Blue Medium */
+background: #003778;
+
+
+/* Frame 41 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 145px;
+height: 36px;
+left: 825px;
+top: 104px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 15px 0px;
+
+
+/* Clear */
+
+position: static;
+width: 34px;
+height: 18px;
+right: 111px;
+top: 9px;
+
+/* Button / Link / Default */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+text-align: right;
+text-decoration-line: underline;
+
+/* Secondary / Blue Medium */
+color: #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* Default - Active */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 24px;
+
+position: static;
+width: 96px;
+height: 36px;
+right: 0px;
+top: 0px;
+
+/* Buttons / Primary / Light Theme / Normal */
+background: linear-gradient(180deg, rgba(0, 55, 120, 0.9) 5.31%, #003778 98.26%);
+/* Secondary / Blue Medium */
+border: 1px solid #003778;
+box-sizing: border-box;
+border-radius: 8px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 15px;
+
+
+/* Label text */
+
+position: static;
+height: 16px;
+left: 24px;
+right: 24px;
+top: calc(50% - 16px/2);
+
+/* Button / Base / Default */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 16px;
+/* identical to box height, or 107% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Secondary / White */
+color: #FFFFFF;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Group 54 */
+
+position: absolute;
+width: 940px;
+height: 29px;
+left: 230px;
+top: 365px;
+
+
+
+/* Line 32 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 100%;
+
+/* Secondary / Gray Light text */
+border: 1px solid #999999;
+
+
+/* © Bell Canada, 2020. All rights reserved. */
+
+position: absolute;
+left: 0%;
+right: 70.36%;
+top: 51.72%;
+bottom: 0%;
+
+/* Body / Small body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+
+/* Secondary / Gray Medium */
+color: #555555;
+
+
+/* Legal | Privacy | Terms */
+
+position: absolute;
+left: 81.56%;
+right: 0%;
+top: 51.72%;
+bottom: 0%;
+
+/* Body / Small body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* Secondary / Gray Keyline */
+color: #D4D4D4;
+
+
+/* Topbar / Simple Top Bar */
+
+position: absolute;
+height: 60px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Navbar / Topbar / Simple Top Bar */
+
+position: absolute;
+height: 60px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #00549A;
+
+
+/* Frame 17 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 172.59px;
+height: 33px;
+left: 30px;
+top: calc(50% - 33px/2 + 0.5px);
+
+
+
+/* Bell */
+
+position: static;
+width: 50.59px;
+height: 30px;
+left: 0px;
+top: 1.5px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Combined shape 16079 */
+
+position: absolute;
+width: 50.83px;
+left: -0.24px;
+top: -0.75%;
+bottom: 1.88%;
+
+/* Secondary / White */
+background: #FFFFFF;
+
+
+/* Exclude */
+
+position: absolute;
+width: 42.49px;
+height: 29.66px;
+left: -0.24px;
+top: -0.23px;
+
+background: #DADADA;
+
+
+/* Shape sp-16079-0-0 */
+
+position: absolute;
+left: -3.95%;
+right: -3.01%;
+top: -6.67%;
+bottom: -4.02%;
+
+background: #FFFFFF;
+
+
+/* Shape sp-16079-0-1 */
+
+position: absolute;
+left: -3.48%;
+right: -3.49%;
+top: -5.68%;
+bottom: -5%;
+
+background: #FFFFFF;
+
+
+/* Shape sp-16079-0-2 */
+
+position: absolute;
+left: -3.48%;
+right: -3.49%;
+top: -5.68%;
+bottom: -5%;
+
+background: #FFFFFF;
+
+
+/* Shape sp-16079-0-3 */
+
+position: absolute;
+left: -3.48%;
+right: -3.49%;
+top: -5.68%;
+bottom: -5%;
+
+background: #FFFFFF;
+
+
+/* Shape sp-16079-0 */
+
+position: absolute;
+left: -3.48%;
+right: -3.49%;
+top: -5.68%;
+bottom: -5%;
+
+background: #FFFFFF;
+
+
+/* Line 5 */
+
+position: static;
+left: 35.11%;
+right: 64.31%;
+top: 4.55%;
+bottom: 4.55%;
+
+border: 1px solid #003778;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Title line 3 */
+
+position: static;
+height: 33px;
+left: 41.48%;
+right: 0%;
+top: calc(50% - 33px/2);
+
+/* Navbar / Product name / Desktop / 2 lines */
+font-family: BellSlim;
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 16px;
+/* or 103% */
+letter-spacing: -0.497778px;
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+/* Rectangle 2 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 270px;
+height: 22px;
+right: 30px;
+top: calc(50% - 22px/2);
+
+
+
+/* Button / Toggle / Desktop / On / Dark Theme / Normal */
+
+position: static;
+width: 111px;
+height: 22px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* switch_on */
+
+position: absolute;
+width: 105px;
+height: 18px;
+left: 3px;
+top: 2px;
+
+
+
+/* ICONS / Arrow / icn_arrow_extra_small_down */
+
+position: absolute;
+left: 90.09%;
+right: 2.7%;
+top: 36.36%;
+bottom: 27.27%;
+
+
+
+/* Line 12 */
+
+position: absolute;
+width: 8px;
+height: 4px;
+left: calc(50% - 8px/2);
+top: calc(50% - 4px/2);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Non-dedicated */
+
+position: absolute;
+width: 92px;
+height: 18px;
+right: 16px;
+top: 2px;
+
+/* Body / Body */
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+text-align: right;
+
+/* Secondary / White */
+color: #FFFFFF;
+
+
+/* Rectangle */
+
+position: static;
+left: 48.52%;
+right: 51.11%;
+top: 0%;
+bottom: 0%;
+
+background: #C2CEDF;
+border-radius: 0.5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* icn_logout */
+
+position: static;
+width: 20px;
+height: 20px;
+left: 152px;
+top: 1px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* ICONS / 20 / icn_logout */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Page 1 */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 1px;
+top: 1px;
+
+
+
+/* Stroke 1 */
+
+position: absolute;
+width: 4px;
+height: 8px;
+left: calc(50% - 4px/2 + 7px);
+top: calc(50% - 8px/2);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Stroke 3 */
+
+position: absolute;
+width: 12px;
+height: 1px;
+left: calc(50% - 12px/2 + 3px);
+top: calc(50% - 1px/2 + 0.5px);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Stroke 5 */
+
+position: absolute;
+width: 11px;
+height: 18px;
+left: calc(50% - 11px/2 - 3.5px);
+top: calc(50% - 18px/2);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* icn_userguide */
+
+position: static;
+width: 18px;
+height: 20px;
+left: 192px;
+top: 1px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* Group 33 */
+
+position: absolute;
+width: 18px;
+height: 20px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 16px;
+height: 20px;
+left: calc(50% - 16px/2 + 1px);
+top: calc(50% - 20px/2);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 25 */
+
+position: absolute;
+width: 4px;
+height: 0px;
+left: calc(50% - 4px/2 - 7px);
+top: calc(50% - 0px/2 - 6px);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 26 */
+
+position: absolute;
+width: 4px;
+height: 0px;
+left: calc(50% - 4px/2 - 7px);
+top: calc(50% - 0px/2 - 2px);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 4px;
+height: 0px;
+left: calc(50% - 4px/2 - 7px);
+top: calc(50% - 0px/2 + 2px);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 28 */
+
+position: absolute;
+width: 4px;
+height: 0px;
+left: calc(50% - 4px/2 - 7px);
+top: calc(50% - 0px/2 + 6px);
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 29 */
+
+position: absolute;
+width: 7px;
+height: 0px;
+left: 7px;
+top: 5px;
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* Line 30 */
+
+position: absolute;
+width: 9px;
+height: 0px;
+left: 6px;
+top: 8px;
+
+/* Secondary / White */
+border: 1.5px solid #FFFFFF;
+
+
+/* icn_Help */
+
+position: static;
+display: none;
+width: 20px;
+height: 20px;
+left: 230px;
+top: 1px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* Rectangle */
+
+position: static;
+left: 85.19%;
+right: 14.44%;
+top: 0%;
+bottom: 0%;
+
+background: #C2CEDF;
+border-radius: 0.5px;
+
+/* Inside Auto Layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+margin: 0px 20px;
+
+
+/* FR */
+
+position: static;
+height: 18px;
+left: 92.96%;
+right: 0%;
+top: calc(50% - 18px/2);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+margin: 0px 20px;
