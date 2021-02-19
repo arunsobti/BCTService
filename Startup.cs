@@ -38,6 +38,7 @@ namespace BCT.SwaggerAPI
 
             services.AddControllers();
             services.AddSingleton<ICustomerService, CustomerService>();
+            services.AddSingleton<ICustomerIssuesService, CustomerIssuesService>();
             services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo

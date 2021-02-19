@@ -129,7 +129,6 @@ D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\devtools\projects\BCT\BCT.SwaggerAPI\obj\Debug\netcoreapp3.1\BCT.SwaggerAPI.csprojAssemblyReference.cache
 D:\devtools\projects\BCT\BCT.SwaggerAPI\obj\Debug\netcoreapp3.1\BCT.SwaggerAPI.AssemblyInfoInputs.cache
 D:\devtools\projects\BCT\BCT.SwaggerAPI\obj\Debug\netcoreapp3.1\BCT.SwaggerAPI.AssemblyInfo.cs
 D:\devtools\projects\BCT\BCT.SwaggerAPI\obj\Debug\netcoreapp3.1\BCT.SwaggerAPI.csproj.CoreCompileInputs.cache
@@ -148,3 +147,4 @@ D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\System.Net.Http.
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
 D:\devtools\projects\BCT\BCT.SwaggerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\devtools\projects\BCT\BCT.SwaggerAPI\obj\Debug\netcoreapp3.1\BCT.SwaggerAPI.csprojAssemblyReference.cache
